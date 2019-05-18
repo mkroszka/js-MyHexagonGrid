@@ -4,7 +4,7 @@ class MyHexagon {
   constructor(x, y) {
     this.size = 146;
     this.width = Math.sqrt(3) * this.size;
-    this.height = 2 * this.size
+    this.height = 2 * this.size;
 
     this.x = x;
     this.y = y;
