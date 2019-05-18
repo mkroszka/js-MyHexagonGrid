@@ -1,0 +1,27 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+#grid-container{
+  width: 100%;
+  height: 100vh;
+}
+
+#grid-container canvas{
+}
+
+#grid-container #info{
+  padding: 10px;
+  position: absolute;
+  left: 20px;
+  top: 20px;
+  background: #fff;
+  border: solid 1px #000;
+}
+
+#draw-map{
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
